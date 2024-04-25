@@ -1,5 +1,7 @@
 ### Hi there, I'm Pavan Swaroop 👋
-[![Pavan's GitHub stats](https://github-readme-stats.vercel.app/api?username=pavanswaroopl)](https://github.com/pavanswaroopl/github-readme-stats)
+[![Pavan's GitHub stats](https://github-readme-stats.vercel.app/api?username=pavanswaroopl&show_icons=true)](https://github.com/pavanswaroopl/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pavanswaroopl)](https://github.com/pavanswaroopl/github-readme-stats)
+
 
 
 <!--
