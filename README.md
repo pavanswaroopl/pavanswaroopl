@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Pavan Swaroop 👋
+[![Pavan's GitHub stats](https://github-readme-stats.vercel.app/api?username=pavanswaroopl)](https://github.com/pavanswaroopl/github-readme-stats)
+
 
 <!--
 **pavanswaroopl/pavanswaroopl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
