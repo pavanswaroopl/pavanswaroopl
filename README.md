@@ -33,7 +33,7 @@ Feel free to reach out if you want to collaborate on exciting projects or discus
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pavanswaroopl&layout=compact)](https://github.com/pavanswaroopl/pavanswaroopl)
 
 
-- 🔭 I’m currently working on **Devops Automation Project**
+- 🔭 I’m currently working on **Java Finance/Banking Project**
 - 🌱 I’m currently learning **Javascript & it's libraries**
 - 💬 Ask me about **Full Stack Development & Web Applications & DevOps Practices**
 
