@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pavan Swaroop Lebakula</h1>
-<h3 align="center">Hey there! 👋 I'm Pavan, a passionate Full Stack Engineer with a knack for solving complex problems and building innovative solutions. With a Master's degree in Computer Science from the University of Central Florida, I thrive in dynamic environments where I can apply my skills in software development, DevOps, and cloud technologies.om India</h3>
+<h3 align="center">Hey there! 👋 I'm Pavan, a passionate Full Stack Engineer with a knack for solving complex problems and building innovative solutions. With a Master's degree in Computer Science from the University of Central Florida, I thrive in dynamic environments where I can apply my skills in software development, DevOps, and cloud technologies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavanswaroopl&label=Profile%20views&color=0e75b6&style=flat" alt="pavanswaroopl" /> </p>
 
